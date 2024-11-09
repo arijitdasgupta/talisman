@@ -21,3 +21,7 @@ The manufacturing process with PCB makers such as JLCPCB is a little convoluted,
 
 ## TODO
  - [ ] Add images
+
+## What's Friday Makers Club?
+
+TODO
