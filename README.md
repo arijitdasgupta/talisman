@@ -4,7 +4,7 @@ In at attempt to teach myself how to design PCBs, I made this trinket thingie to
 
 ![Talisman](./images/talisman.JPG)
 
-## Current games
+## Games that run on this
 
  - [Bike w Friends](https://github.com/arijitdasgupta/bike_w_friends/)
  - [Flappy Mycologist](https://github.com/arijitdasgupta/flappy_mycologist)
